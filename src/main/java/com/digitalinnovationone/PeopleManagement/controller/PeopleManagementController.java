@@ -1,11 +1,8 @@
 package com.digitalinnovationone.PeopleManagement.controller;
 
-import com.digitalinnovationone.PeopleManagement.entity.Person;
 import com.digitalinnovationone.PeopleManagement.service.PeopleManagementService;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
